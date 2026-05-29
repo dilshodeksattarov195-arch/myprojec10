@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configserify",
+        "uuid": 30580,
+        "checksum": "bnai6l"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
